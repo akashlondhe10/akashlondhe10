@@ -1,4 +1,5 @@
 💻Student of computer science
-Basick  programing knowledge 💫
-💙Html python 💯
-Intrested in technology 🛸
+🌐Basic programing knowledge 
+☕Java full stack developer 
+👑Intrested in technology
+🙌Coder
