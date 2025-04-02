@@ -1,5 +1,5 @@
 💻Student of computer science
-🌐Basic programing knowledge 
+🌐data analatyics
 ☕Java full stack developer 
 👑Intrested in technology
 🙌Coder
